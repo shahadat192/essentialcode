@@ -1,0 +1,16 @@
+/* Medium layout: 1200px */
+@media only screen and (min-width: 992px) and (max-width: 1200px){
+
+}
+/* Tablet layout: 1200px */
+@media only screen and (min-width: 768px) and (max-width: 991px){
+
+}
+/* Mobile layout: 320px */
+@media only screen and (min-width: 768px) and (max-width: 991px){
+
+}
+/* Mobile layout: 480px */
+@media only screen and (min-width: 480px) and (max-width: 767px){
+
+}
